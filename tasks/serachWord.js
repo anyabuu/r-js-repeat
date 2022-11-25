@@ -1,4 +1,4 @@
-export function wordSearch (string) {
+export function searchWord (string) {
 
   return string.split(' ').reduce((prev, item) => {
 

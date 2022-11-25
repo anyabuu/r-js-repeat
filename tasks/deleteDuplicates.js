@@ -1,4 +1,4 @@
-export function deleteDuplicate(arr) {
+export function deleteDuplicates(arr) {
 
   return arr.reduce((accArr, curr) => {
 
